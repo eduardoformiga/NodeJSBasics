@@ -1,0 +1,3 @@
+Meu arquivo que será lido em UTF-8
+Obrigado por se inscrever
+Obrigado por se inscrever
